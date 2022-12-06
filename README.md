@@ -9,7 +9,9 @@ Purpose of the project was to apply semantic html/css to the code which would he
 N/A
 
 ## Usage
-There is no function usage
+
+There is no function usage.
+
 https://ihsanm.github.io/01-Challenge-code-refractor/ git hub link
 <img src="Assets\images\FireShot Capture 002 - Horiseon Social Solution Services - .png">
 
