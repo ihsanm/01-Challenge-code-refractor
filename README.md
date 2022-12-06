@@ -11,7 +11,7 @@ N/A
 ## Usage
 There is no function usage
 
-<img src="assets\images\FireShot Capture 002 - Horiseon Social Solution Services - .png">
+<img src="Assets\images\FireShot Capture 002 - Horiseon Social Solution Services - .png">
 
 
 ## Credits
