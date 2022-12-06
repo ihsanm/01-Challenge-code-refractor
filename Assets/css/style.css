@@ -1,3 +1,4 @@
+/* shows how the body is displayed */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -7,7 +8,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* shows how the header is displayed */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -24,7 +25,7 @@ body {
     color: #d9dcd6;
 }
 
-.header div {
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,15 +33,15 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
+.header nav ul {
     list-style-type: none;
 }
 
-.header div ul li {
+.header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* changes the font color and size */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -49,7 +50,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* affects display of image */
 .hero {
     height: 800px;
     width: 100%;
@@ -58,23 +59,23 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* causes items to float left */
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
+/* causes items to float right */
 .float-right {
     float: right;
     margin-left: 25px;
 }
-
+/* shows how contents are displayed */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+/* affects how content is displayed */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -187,7 +188,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* shows how footer is displayed */
 .footer {
     padding: 30px;
     clear: both;
